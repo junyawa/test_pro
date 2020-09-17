@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{E9F6A016-2E51-0BDE-BADE-0AF8BEBF4684}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/.gitignore">
+    <Files>
+      <File FileName="Assets/NewBehaviourScript.cs" Line="34" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project (1)" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3c55be29-1cb0-410e-bbad-98b1fe038441" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
